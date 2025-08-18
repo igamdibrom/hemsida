@@ -405,7 +405,7 @@
       <link>https://studiotvar.se/galleries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://studiotvar.se/galleries/</guid>
-      <description>&lt;h1 id=&#34;mina-gallerier-hittar-du-här&#34;&gt;Mina gallerier hittar du här&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://studiotvar.se/galleries/favoriter/&#34;&gt;Favoriter&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://studiotvar.se/galleries/bremon-2014/&#34;&gt;Bremön 2014&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://studiotvar.se/galleries/p-floyd-2012/&#34;&gt;P-Floyd 2012&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;mina-gallerier-hittar-du-här&#34;&gt;Mina gallerier hittar du här&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./galleries/favoriter/&#34;&gt;Favoriter&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./galleries/bremon-2014/&#34;&gt;Bremön 2014&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./galleries/p-floyd-2012/&#34;&gt;P-Floyd 2012&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Kontakt</title>

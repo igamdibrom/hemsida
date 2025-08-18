@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cubase on Studio Tvär</title>
+    <link>https://studiotvar.se/tags/cubase/</link>
+    <description>Recent content in Cubase on Studio Tvär</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Fri, 04 Mar 2022 17:53:04 +0100</lastBuildDate>
+    <atom:link href="https://studiotvar.se/tags/cubase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cubase Pro 11 grace period eligible to Cubase Pro 12!</title>
+      <link>https://studiotvar.se/blog/2022/03/04/2022-cubase-12-pro/</link>
+      <pubDate>Fri, 04 Mar 2022 17:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2022/03/04/2022-cubase-12-pro/</guid>
+      <description>&lt;p&gt;Äntligen kom Cubase 12 PRO och nu gjorde dom sig av med elicensing dongeln!&lt;/p&gt;&#xA;&lt;p&gt;Mest för att komma ihåg gör jag detta korta inlägg för hur jag gjorde min uppdatering.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Kollar i min ”eLicenser Control Center” att jag har licens för Cubase Pro 11.&lt;/li&gt;&#xA;&lt;li&gt;Kollar också mitt konto hos Steinberg (har Cubase Pro 11 ) och att det är aktiverat efter 9 november 2021.&lt;/li&gt;&#xA;&lt;li&gt;Kör en ”Maintenance” av min eLicenser (flera gånger då det misslyckas). Efter den lyckats står det nu ”Cubase Pro 11 (grace period eligible).&lt;/li&gt;&#xA;&lt;li&gt;Kollar också att kontot hos Steinberg också hängt med – det hade det inte. Så kör ”Maintenance” igen. Nu är det rätt efter några fler felaktiga körningar.&lt;/li&gt;&#xA;&lt;li&gt;Kör uppdatering av ”Steinberg Download Assistant” och ”Steinberg Activation Manager”.&lt;/li&gt;&#xA;&lt;li&gt;Kör ”Steinberg Activation Manager” och klickar på ikonen längst upp till höger och väljer ”Grace Period Check…” – tog låååång tid. Klicka på ”Update” och nu kom ett mail med en ny download access code.&lt;/li&gt;&#xA;&lt;li&gt;Starta ”Steinberg Download Assistant” igen och lägg till den nya koden under längst uppe till vänster!&lt;/li&gt;&#xA;&lt;li&gt;Sen tillbaka till ”Steinberg Activation Manager” och nu kan jag aktivera Cubase Pro 12 där!&lt;/li&gt;&#xA;&lt;li&gt;Bara å dundra hem allt i ”Steinberg Dowdload Assistant” under ”Cubase” -&amp;gt; ”Cubase Pro 12”.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/cubase-12-pro.png&#34; alt=&#34;Cubase 12 PRO&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

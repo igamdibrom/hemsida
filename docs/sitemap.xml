@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://studiotvar.se/</loc>
+    <lastmod>2025-08-19T21:58:04+01:00</lastmod>
+  </url><url>
     <loc>https://studiotvar.se/blog/</loc>
     <lastmod>2024-09-28T12:28:17+02:00</lastmod>
   </url><url>
@@ -21,9 +24,6 @@
     <lastmod>2024-09-28T12:28:17+02:00</lastmod>
   </url><url>
     <loc>https://studiotvar.se/categories/meckande/</loc>
-    <lastmod>2024-09-28T12:28:17+02:00</lastmod>
-  </url><url>
-    <loc>https://studiotvar.se/</loc>
     <lastmod>2024-09-28T12:28:17+02:00</lastmod>
   </url><url>
     <loc>https://studiotvar.se/tags/</loc>
@@ -421,8 +421,6 @@
   </url><url>
     <loc>https://studiotvar.se/tags/musikutbildning/</loc>
     <lastmod>2012-10-08T17:13:04+01:00</lastmod>
-  </url><url>
-    <loc>https://studiotvar.se/galleries/</loc>
   </url><url>
     <loc>https://studiotvar.se/contact/</loc>
   </url>

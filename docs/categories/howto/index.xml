@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on Studio Tvär</title>
+    <link>https://studiotvar.se/categories/howto/</link>
+    <description>Recent content in Howto on Studio Tvär</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Sat, 24 Dec 2022 15:53:04 +0100</lastBuildDate>
+    <atom:link href="https://studiotvar.se/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HOWTO: Service på grafikkort</title>
+      <link>https://studiotvar.se/blog/2022/12/24/2022-howto-service-grafikkort/</link>
+      <pubDate>Sat, 24 Dec 2022 15:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2022/12/24/2022-howto-service-grafikkort/</guid>
+      <description>&lt;p&gt;Mitt nu rätt gamla Powercolor Radeon RX 590 8GB Red Dragon hade en tendens att låta väldigt mycket när man spelade de enklaste spel. Så efter flytt och haft burken nedpackat ett tag upptäckte jag att problemen förvärrats ännu mer.&lt;/p&gt;&#xA;&lt;p&gt;Nu krävdes det bara gajming så dök burken nu och då eller bara lät förfärligt med grafikkortsfläktarna på max. Råkade dessutom sammanfalla med rejält omarbetad drivare från AMD - så misstanken landade ju där först. Efter massa strul och försök att byta till äldre version av drivrutiner som tillslut i samband med krascher fick hela burken att sluta boota fick det bli en paus (annat pocka på i flytt- och renoveringskaos).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wow! Testar ett Air Pod hack..</title>
+      <link>https://studiotvar.se/blog/2022/09/26/2020-airpod-hack/</link>
+      <pubDate>Mon, 26 Sep 2022 19:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2022/09/26/2020-airpod-hack/</guid>
+      <description>&lt;p&gt;Mitt första par Air Pods hade ett hårt liv. Riktigt hårt. Brukade dom mer eller mindre dagligen till och från jobbet samt på jobbet för att hamna lite i en egen värld där i kontorslandskapet. Lyckades också tappa dom engång på en Ica Maxi-parkering där dom blev överkörda minst en gång – men jag fick igen dom! Har slipat betonggolv i ett helt radhus med dom i skallen för att stå ut med monotona jobbet (med hörselkåpor utanpå, tack för underhållningen Billy Opel!). Nånstans i denna process så dog den vänstra Air Podden helt. Den tog laddning men gav inte ifrån sig ett pip. Testat alla former av reset och annat man kunde men fick ge upp och köpte ett par nya (hade ju lite dålig batteritid och fick ju då dessutom Gen2). Men så nyligen när dom råkade hamna på mitt skrivbord långt senare i någon sorts rensningsaktivitet av gammal datorskrot för kommande flytt till ovan nämnda radhus så fick jag för mig att kolla om själva uppladdningsbara fodralet fortfarande tog laddning och höll sig skapligt eller om jag skulle kasta allt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kabelförvaringstrix!</title>
+      <link>https://studiotvar.se/blog/2022/04/12/2022-kabelforvarningstrix/</link>
+      <pubDate>Tue, 12 Apr 2022 15:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2022/04/12/2022-kabelforvarningstrix/</guid>
+      <description>&lt;p&gt;Såg det nog för lääääänge sedan på internet nånstans men idag har det varit lite röjning och även jag tog och testade trixet! Får säga att det faktiskt funkar riktigt bra! Kommer bli enklare att hitta dom udda konverterarna när man ska leka i lilla hemmastudion och behöver nån konstig koppling till nått… 🙂&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/kabelforvarningstrix.png&#34; alt=&#34;Kabelförvarningstrix&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jag har alltså kapat upp ett papprör som förmodligen haft en vaxduk eller liknande runt sig samt kompletterat med lite vanliga toarullar. Fyllt botten på en förvarningspuff med stående rullar och alla kontakter uppåt. Nåja nästan fyllt – behövde ju plats för ett gammalt ljudkort och diverse gitarrsträngar också. Voila har jag äntligen lite ordning på oredan och kan lätt plocka fram och hitta udda kablar, förlängare och konverterare. Nu återstår bara att åka med den ännu större högen med gamla sladdar till återvinningen!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cubase Pro 11 grace period eligible to Cubase Pro 12!</title>
+      <link>https://studiotvar.se/blog/2022/03/04/2022-cubase-12-pro/</link>
+      <pubDate>Fri, 04 Mar 2022 17:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2022/03/04/2022-cubase-12-pro/</guid>
+      <description>&lt;p&gt;Äntligen kom Cubase 12 PRO och nu gjorde dom sig av med elicensing dongeln!&lt;/p&gt;&#xA;&lt;p&gt;Mest för att komma ihåg gör jag detta korta inlägg för hur jag gjorde min uppdatering.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Kollar i min ”eLicenser Control Center” att jag har licens för Cubase Pro 11.&lt;/li&gt;&#xA;&lt;li&gt;Kollar också mitt konto hos Steinberg (har Cubase Pro 11 ) och att det är aktiverat efter 9 november 2021.&lt;/li&gt;&#xA;&lt;li&gt;Kör en ”Maintenance” av min eLicenser (flera gånger då det misslyckas). Efter den lyckats står det nu ”Cubase Pro 11 (grace period eligible).&lt;/li&gt;&#xA;&lt;li&gt;Kollar också att kontot hos Steinberg också hängt med – det hade det inte. Så kör ”Maintenance” igen. Nu är det rätt efter några fler felaktiga körningar.&lt;/li&gt;&#xA;&lt;li&gt;Kör uppdatering av ”Steinberg Download Assistant” och ”Steinberg Activation Manager”.&lt;/li&gt;&#xA;&lt;li&gt;Kör ”Steinberg Activation Manager” och klickar på ikonen längst upp till höger och väljer ”Grace Period Check…” – tog låååång tid. Klicka på ”Update” och nu kom ett mail med en ny download access code.&lt;/li&gt;&#xA;&lt;li&gt;Starta ”Steinberg Download Assistant” igen och lägg till den nya koden under längst uppe till vänster!&lt;/li&gt;&#xA;&lt;li&gt;Sen tillbaka till ”Steinberg Activation Manager” och nu kan jag aktivera Cubase Pro 12 där!&lt;/li&gt;&#xA;&lt;li&gt;Bara å dundra hem allt i ”Steinberg Dowdload Assistant” under ”Cubase” -&amp;gt; ”Cubase Pro 12”.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/cubase-12-pro.png&#34; alt=&#34;Cubase 12 PRO&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HOWTO: Batteribyte macbook pro mid 2014!</title>
+      <link>https://studiotvar.se/blog/2021/07/14/2021-batteribyte-macbook-pro-mid-2014/</link>
+      <pubDate>Wed, 14 Jul 2021 17:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2021/07/14/2021-batteribyte-macbook-pro-mid-2014/</guid>
+      <description>&lt;p&gt;Brukar skruva isär min gamla trogna MacBook Pro (modell Mid-2014) åtminstone en gång per år och städa den från damm. Den blir oftast rejält mindre varm och går också mycket tystare av lite dammsugning av fläktar innuti.&lt;/p&gt;&#xA;&lt;p&gt;Plockade som vanligt fram mitt pålitliga kit från ifixit.com och lättade på locket (nåja botten om man ska vara petig).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/macbook-svullet-batteri.png&#34; alt=&#34;Macbook med svullet batteri&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Som synes är både bottenplattan och dom två fläktarna rätt dammiga. Fram med lilla dammsugaren och försiktigt göra rent! Som vanligt inget större problem förrän jag skulle återmontera bottenplattan… Plötsligt märker jag ju att den inte går att skruva ihop igen? Va nu? Efter lite ytterligare granskning inser jag snart att batteriets celler är REJÄLT svullna!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Renovering av gammal gitarr!</title>
+      <link>https://studiotvar.se/blog/2020/08/16/2020-renovering-av-gammal-gitarr/</link>
+      <pubDate>Sun, 16 Aug 2020 20:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2020/08/16/2020-renovering-av-gammal-gitarr/</guid>
+      <description>&lt;p&gt;Fick en gammal gitarr som stått för sig själv i nått hörn i många många herrans år. Hann bara försöka stämma den så small en av dom riktigt risiga strängarna av. Bara å beställa hem nya strängar då mitt lager sinat totalt.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/nya-gitarr-strangar.png&#34; alt=&#34;Nya strängar&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Blev thomann som fick stå för leveransen då vi inte har nått bra alternativ längre lokalt i Gävle. Transporten gick som vanligt snabbt till Sverige och blev sen rätt osynlig innan jag plötsligt kunde beställa att få paketet lämnat på vanliga utlämningsstället istället för att dom ska ”försöka leverera till dörren” (brukar ju aldrig funka). Döm om min förvåning dock när jag hämtade ut paketet!. Magiskt misshandlat kom det åtminstone efter några dagar med mina nya strängar – tur sånna inte är ömtåliga! Drog lite i en flik på vad som var kvar av kartongen och vips såg resterna av paketet ut så här! 🙂&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacGyver-mode i värmen!</title>
+      <link>https://studiotvar.se/blog/2020/06/22/2020-macgyver-mode-i-varmen/</link>
+      <pubDate>Mon, 22 Jun 2020 10:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2020/06/22/2020-macgyver-mode-i-varmen/</guid>
+      <description>&lt;p&gt;Två riktigt varma dagar på raken och kolla lite i lådor och tog hjälp av en gammal pc-fläkt, en riktigt gammal mobilladdare, en gammal flingkartong, en blomlåda för balkong samt två frysklampar och lite vatten! Krävdes bara en liten sockerbit för koppling och en sax att klippa i flingkartongen sen var det klart!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/gammal-pc-flakt.png&#34; alt=&#34;Gammal PC fläkt med mobilladdare&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Några isklampar i en blomlåda!&#xA;&lt;img src=&#34;images/blomlada-med-isklampar.png&#34; alt=&#34;Blomlåda med isklampar&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ett uppklippt flingpaket som täckning&#xA;&lt;img src=&#34;images/uppklippt-flingpaket.png&#34; alt=&#34;Uppklippt flingpaket&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reparatören Sören vs GoPro HD Hero3</title>
+      <link>https://studiotvar.se/blog/2015/04/11/2015-reparatoren-soren-vs-gopro-hd-hero3/</link>
+      <pubDate>Sat, 11 Apr 2015 12:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2015/04/11/2015-reparatoren-soren-vs-gopro-hd-hero3/</guid>
+      <description>&lt;p&gt;Roat (?) mig här i veckan med att ge mig på att reparera en GoPro-kamera som fått&#xA;en ”körnare” nästan mitt i linsen efter en rejäl krasch i backen! Jösses så pilligt&#xA;men onekligen spännande!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/lins.png&#34; alt=&#34;lins.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vad var klurigast då? Ja man lär ju hitta reservlins av rätt sort vilket var en&#xA;förvirrande resa. Sen lär man sluta vänta på att det ska bli billigare någon gång&#xA;när det är VÅR svenska krona som ramlar nedåt mot andra valutor. Sagt och gjort&#xA;beställde jag en lins på typ lite chansning (alltid spännande när leverantören&#xA;knappt kan engelska). Döm om min förvåning när en lins dök upp på typ bara 2 veckor&#xA;ända borta från Kina!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glad påsk!</title>
+      <link>https://studiotvar.se/blog/2015/04/02/2015-glad-pask/</link>
+      <pubDate>Thu, 02 Apr 2015 17:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/blog/2015/04/02/2015-glad-pask/</guid>
+      <description>&lt;p&gt;Vill så klart önska alla och envar en riktigt trevlig och glad påsk! För er som&#xA;känner er lite osäker på själva kvastandet så kommer här en enkel HowTo-guide! 😉&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/CGUfsy9hVdE&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/CGUfsy9hVdE/0.jpg&#34; alt=&#34;Video på Youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

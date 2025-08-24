@@ -116,18 +116,6 @@
     <loc>https://studiotvar.se/tags/studiotid/</loc>
     <lastmod>2022-01-14T15:53:04+01:00</lastmod>
   </url><url>
-    <loc>https://studiotvar.se/releases/im-missing-you/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://studiotvar.se/categories/l%C3%A5tar/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://studiotvar.se/tags/releaser/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://studiotvar.se/releases/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://studiotvar.se/blog/2021/07/14/2021-batteribyte-macbook-pro-mid-2014/</loc>
     <lastmod>2021-07-14T17:53:04+01:00</lastmod>
   </url><url>
@@ -136,12 +124,6 @@
   </url><url>
     <loc>https://studiotvar.se/tags/righttorepair/</loc>
     <lastmod>2021-07-14T17:53:04+01:00</lastmod>
-  </url><url>
-    <loc>https://studiotvar.se/releases/alla-har-ju-mask/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://studiotvar.se/releases/nu-ar-det-dags-att-fira-jul-igen/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://studiotvar.se/blog/2020/08/16/2020-renovering-av-gammal-gitarr/</loc>
     <lastmod>2020-08-16T20:53:04+01:00</lastmod>
@@ -320,9 +302,6 @@
     <loc>https://studiotvar.se/tags/saknad/</loc>
     <lastmod>2015-01-30T17:53:04+01:00</lastmod>
   </url><url>
-    <loc>https://studiotvar.se/releases/i-wish-there-were-another-you/</loc>
-    <lastmod>2015-01-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://studiotvar.se/blog/2015/01/16/2015-arsdag-igen-och-4-ar-har-gatt/</loc>
     <lastmod>2015-01-16T17:53:04+01:00</lastmod>
   </url><url>
@@ -433,6 +412,8 @@
     <loc>https://studiotvar.se/gallery/p-floyd-2012/</loc>
   </url><url>
     <loc>https://studiotvar.se/gallery/p-floyd-2021/</loc>
+  </url><url>
+    <loc>https://studiotvar.se/p-floyd-2021/</loc>
   </url><url>
     <loc>https://studiotvar.se/gallery/thomas-50/</loc>
   </url>

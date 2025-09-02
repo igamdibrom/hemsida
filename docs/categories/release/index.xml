@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Release on Studio Tvär</title>
-    <link>http://localhost:1313/categories/release/</link>
+    <link>https://studiotvar.se/categories/release/</link>
     <description>Recent content in Release on Studio Tvär</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
-    <atom:link href="http://localhost:1313/categories/release/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://studiotvar.se/categories/release/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nu är det dags att fira Jul igen</title>
+      <link>https://studiotvar.se/releases/nu-ar-det-dags-att-fira-jul-igen/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://studiotvar.se/releases/nu-ar-det-dags-att-fira-jul-igen/</guid>
+      <description>&lt;p&gt;Du kan nu lyssna på min nya julsingel ”Nu är det dags att fira jul igen”. Du hittar den på många de flesta populära plattformar.&lt;/p&gt;&#xA;&lt;p&gt;Du hittar låten på många plattformar här på denna &lt;a href=&#34;https://distrokid.com/hyperfollow/thomaslundstrm/nu-r-det-dags-att-fira-jul-igen&#34;&gt;Hyperfollow-länk&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

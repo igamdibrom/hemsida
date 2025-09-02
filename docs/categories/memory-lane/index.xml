@@ -2,45 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memory Lane on Studio Tvär</title>
-    <link>https://studiotvar.se/categories/memory-lane/</link>
+    <link>http://localhost:1313/categories/memory-lane/</link>
     <description>Recent content in Memory Lane on Studio Tvär</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 12 Apr 2022 15:53:04 +0100</lastBuildDate>
-    <atom:link href="https://studiotvar.se/categories/memory-lane/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I&#39;m missing you!</title>
-      <link>https://studiotvar.se/blog/2022/04/12/2022-im-missing-you/</link>
-      <pubDate>Tue, 12 Apr 2022 15:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/blog/2022/04/12/2022-im-missing-you/</guid>
-      <description>&lt;p&gt;Idag skulle det återigen varit din födelsedag. Gjorde ju grunden till en låt vid din födelsedag ifjol då det var 10 år sedan du lämnade jordelivet. Sen tog den nästan ett år innan den blev färdig och kunde publicerades på diverse tjänster (se länkar nedan). Har fått förfrågan om texten så nu har jag gjort en enkel video av låten med tillhörande text.&lt;/p&gt;&#xA;&lt;p&gt;Hoppas du har det bra på ditt lilla moln saknade vän! &amp;lt;3 &amp;lt;3 &amp;lt;3&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Saknar dej, fortfarande!</title>
-      <link>https://studiotvar.se/blog/2016/04/12/2016-saknar-dej-fortfarande/</link>
-      <pubDate>Tue, 12 Apr 2016 11:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/blog/2016/04/12/2016-saknar-dej-fortfarande/</guid>
-      <description>&lt;p&gt;Idag tänker man förstås lite extra på sin saknade vän. Tänk att det gått fem år redan! Idag var ju din födelsedag och med den fina vårsol det är idag hade du nog trivts fint… ♥&lt;/p&gt;&#xA;&lt;p&gt;Hoppas du har det bra där du är nu…&lt;/p&gt;&#xA;&lt;p&gt;Saknar dej!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/ASXx8ACg3NM&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/ASXx8ACg3NM/0.jpg&#34; alt=&#34;Video på Youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2015 17:53:04 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/memory-lane/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>En stor dag!</title>
-      <link>https://studiotvar.se/blog/2015/01/30/2015-en-stor-dag/</link>
+      <link>http://localhost:1313/blog/2015/01/30/2015-en-stor-dag/</link>
       <pubDate>Fri, 30 Jan 2015 17:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/blog/2015/01/30/2015-en-stor-dag/</guid>
+      <guid>http://localhost:1313/blog/2015/01/30/2015-en-stor-dag/</guid>
       <description>&lt;p&gt;Hello music lovers!&lt;/p&gt;&#xA;&lt;p&gt;Bättre sent än aldrig? Borde ju så klart varit fixat redan innan den 16:e januari&#xA;men idag är det officiellt! Jag kommer ut ur garderoben ordentligt med min första&#xA;singel ”I Wish There Were Another You” till minne av min saknade vän Jenny. Man kan&#xA;nu hitta min låt på populära tjänster såsom iTunes, Spotify och Google Play! 🙂&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://music.youtube.com/watch?v=mC-PqMFAAZY&amp;amp;si=gZ_2Ag2r2pS2uEew&#34;&gt;!&lt;img src=&#34;images/google-music.png&#34; alt=&#34;google-music.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/track/3okphPQlrh5R6MEbUvzYaB?go=1&amp;amp;sp_cid=6f6e6a9535ac8379ecb00a926293892b&#34;&gt;!&lt;img src=&#34;images/spotify.png&#34; alt=&#34;spotify.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/mC-PqMFAAZY&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/mC-PqMFAAZY/maxresdefault.jpg&#34; alt=&#34;Video på Youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Årsdag igen och 4 år har gått..</title>
-      <link>https://studiotvar.se/blog/2015/01/16/2015-arsdag-igen-och-4-ar-har-gatt/</link>
+      <link>http://localhost:1313/blog/2015/01/16/2015-arsdag-igen-och-4-ar-har-gatt/</link>
       <pubDate>Fri, 16 Jan 2015 17:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/blog/2015/01/16/2015-arsdag-igen-och-4-ar-har-gatt/</guid>
+      <guid>http://localhost:1313/blog/2015/01/16/2015-arsdag-igen-och-4-ar-har-gatt/</guid>
       <description>&lt;p&gt;Hej där uppe kära vän!&lt;/p&gt;&#xA;&lt;p&gt;Återigen är det den där dagen på året då man så klart tänker en hel del på dig. Fortfarande&#xA;rätt svårt att förstå vad som hände och tunga frågor snurrar. Det är ju många som saknar&#xA;sin härliga tokiga busjänta till vän och inte minst jag. Hoppas du har det riktigt bra där&#xA;du är nu i alla fall…&lt;/p&gt;&#xA;&lt;p&gt;Många spelar min låt jag skrev till ditt minne idag och man blir onekligen rörd av&#xA;kommentarerna. Över 110 spelningar på youtube idag och över 2000 totalt. Även om&#xA;alla inte lyssnar på hela så får man ändå försöka inse att några faktiskt tycker den&#xA;är bra! Hade hoppats hinna få till en överaskning till idag men jag startade inte&#xA;tillräckligt tidigt och det har dragit ut på tiden rejäääält innan jag fick ordning&#xA;på allt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Grattis saknade vän!</title>
-      <link>https://studiotvar.se/blog/2014/04/12/2014-grattis-saknade-van/</link>
+      <link>http://localhost:1313/blog/2014/04/12/2014-grattis-saknade-van/</link>
       <pubDate>Sat, 12 Apr 2014 19:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/blog/2014/04/12/2014-grattis-saknade-van/</guid>
+      <guid>http://localhost:1313/blog/2014/04/12/2014-grattis-saknade-van/</guid>
       <description>&lt;p&gt;Idag skulle varit din 35-års dag! Åren går fort men rackarns vad man fortfarande påminns om dig och dina påhitt var och varannan dag. Tur jag vet du har det bra på ditt lilla moln där i himlen!&lt;/p&gt;&#xA;&lt;p&gt;See ya on the other side…&lt;/p&gt;&#xA;&lt;p&gt;Saknar dej!!!&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/ASXx8ACg3NM&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/ASXx8ACg3NM/0.jpg&#34; alt=&#34;Video på Youtube&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -9,17 +9,10 @@
     <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://studiotvar.se/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Låtar</title>
-      <link>https://studiotvar.se/categories/l%C3%A5tar/</link>
+      <title>Releaser</title>
+      <link>https://studiotvar.se/categories/releaser/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://studiotvar.se/categories/l%C3%A5tar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Casio MT-205</title>
-      <link>https://studiotvar.se/categories/casio-mt-205/</link>
-      <pubDate>Tue, 28 May 2024 12:28:17 +0200</pubDate>
-      <guid>https://studiotvar.se/categories/casio-mt-205/</guid>
+      <guid>https://studiotvar.se/categories/releaser/</guid>
       <description></description>
     </item>
     <item>
@@ -37,59 +30,31 @@
       <description></description>
     </item>
     <item>
-      <title>PS4</title>
-      <link>https://studiotvar.se/categories/ps4/</link>
-      <pubDate>Tue, 28 May 2024 12:28:17 +0200</pubDate>
-      <guid>https://studiotvar.se/categories/ps4/</guid>
+      <title>Musik Och Sång</title>
+      <link>https://studiotvar.se/categories/musik-och-s%C3%A5ng/</link>
+      <pubDate>Sun, 24 Dec 2023 11:40:36 +0100</pubDate>
+      <guid>https://studiotvar.se/categories/musik-och-s%C3%A5ng/</guid>
       <description></description>
     </item>
     <item>
       <title>Semester</title>
       <link>https://studiotvar.se/categories/semester/</link>
-      <pubDate>Sun, 24 Dec 2023 11:40:36 +0100</pubDate>
+      <pubDate>Mon, 03 Jul 2023 16:21:00 +0100</pubDate>
       <guid>https://studiotvar.se/categories/semester/</guid>
       <description></description>
     </item>
     <item>
       <title>Meckande</title>
       <link>https://studiotvar.se/categories/meckande/</link>
-      <pubDate>Mon, 26 Sep 2022 19:53:04 +0100</pubDate>
+      <pubDate>Thu, 05 May 2022 15:53:04 +0100</pubDate>
       <guid>https://studiotvar.se/categories/meckande/</guid>
       <description></description>
     </item>
     <item>
-      <title>Musik Och Sång</title>
-      <link>https://studiotvar.se/categories/musik-och-s%C3%A5ng/</link>
-      <pubDate>Tue, 26 Jul 2022 15:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/categories/musik-och-s%C3%A5ng/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Humor</title>
-      <link>https://studiotvar.se/categories/humor/</link>
-      <pubDate>Thu, 05 May 2022 15:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/categories/humor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Memory Lane</title>
-      <link>https://studiotvar.se/categories/memory-lane/</link>
-      <pubDate>Tue, 12 Apr 2022 15:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/categories/memory-lane/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fotografering</title>
-      <link>https://studiotvar.se/categories/fotografering/</link>
+      <title>Vänner</title>
+      <link>https://studiotvar.se/categories/v%C3%A4nner/</link>
       <pubDate>Sun, 28 Jun 2020 13:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/categories/fotografering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Natur</title>
-      <link>https://studiotvar.se/categories/natur/</link>
-      <pubDate>Sun, 28 Jun 2020 13:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/categories/natur/</guid>
+      <guid>https://studiotvar.se/categories/v%C3%A4nner/</guid>
       <description></description>
     </item>
     <item>
@@ -100,17 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Födelsedag</title>
-      <link>https://studiotvar.se/categories/f%C3%B6delsedag/</link>
-      <pubDate>Tue, 12 Apr 2016 11:53:04 +0100</pubDate>
-      <guid>https://studiotvar.se/categories/f%C3%B6delsedag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Konsert</title>
-      <link>https://studiotvar.se/categories/konsert/</link>
-      <pubDate>Sun, 11 Oct 2015 17:33:04 +0100</pubDate>
-      <guid>https://studiotvar.se/categories/konsert/</guid>
+      <title>Fotografering</title>
+      <link>https://studiotvar.se/categories/fotografering/</link>
+      <pubDate>Fri, 13 Jun 2014 12:53:04 +0100</pubDate>
+      <guid>https://studiotvar.se/categories/fotografering/</guid>
       <description></description>
     </item>
   </channel>

@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Studio Tvär</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 18:03:02 +0200</lastBuildDate>
     <atom:link href="https://studiotvar.se/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datorer Och Teknik</title>
+      <link>https://studiotvar.se/categories/datorer-och-teknik/</link>
+      <pubDate>Mon, 06 Oct 2025 18:03:02 +0200</pubDate>
+      <guid>https://studiotvar.se/categories/datorer-och-teknik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emulation</title>
+      <link>https://studiotvar.se/categories/emulation/</link>
+      <pubDate>Mon, 06 Oct 2025 18:03:02 +0200</pubDate>
+      <guid>https://studiotvar.se/categories/emulation/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Releaser</title>
       <link>https://studiotvar.se/categories/releaser/</link>
@@ -16,16 +30,9 @@
       <description></description>
     </item>
     <item>
-      <title>Datorer Och Teknik</title>
-      <link>https://studiotvar.se/categories/datorer-och-teknik/</link>
-      <pubDate>Tue, 28 May 2024 12:28:17 +0200</pubDate>
-      <guid>https://studiotvar.se/categories/datorer-och-teknik/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Howto</title>
       <link>https://studiotvar.se/categories/howto/</link>
-      <pubDate>Tue, 28 May 2024 12:28:17 +0200</pubDate>
+      <pubDate>Wed, 28 May 2025 12:28:17 +0200</pubDate>
       <guid>https://studiotvar.se/categories/howto/</guid>
       <description></description>
     </item>

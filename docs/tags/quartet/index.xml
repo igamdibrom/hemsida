@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quartet on Studio Tvär</title>
+    <link>https://studiotvar.se/tags/quartet/</link>
+    <description>Recent content in Quartet on Studio Tvär</description>
+    <generator>Hugo</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Mon, 06 Oct 2025 18:03:02 +0200</lastBuildDate>
+    <atom:link href="https://studiotvar.se/tags/quartet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nostaligtripp med en atari emulator och skapar lite musik med quartet!</title>
+      <link>https://studiotvar.se/blog/2025/10/06/2025-hatari-music/</link>
+      <pubDate>Mon, 06 Oct 2025 18:03:02 +0200</pubDate>
+      <guid>https://studiotvar.se/blog/2025/10/06/2025-hatari-music/</guid>
+      <description>&lt;p&gt;För att motionera trötthjärnan lite gav jag mig ut på en nostalgitripp och dundra in en Atari emulator på min nya fina mac. Hatari med STE emulering och hela 4 MB minne! Hahaha!&lt;/p&gt;&#xA;&lt;p&gt;Fick efter en del strul och även fuska med att ta till linux för referens igång min hatari på macos även om fönstren envisas med att strula. Man får lite random växla app eller ändra storleken på fönstret så vaknar det till igen. Hade ett jäkla strul med å fatta hur man ställde storleken på hårddiskar också innan jag insåg att man helt enkelt körde BARA oändlig storlek då det är faan omöjligt att med atari filer fylla dagens feta hårddiskar ens med nån procent.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

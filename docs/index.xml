@@ -6,14 +6,21 @@
     <description>Recent content on Studio Tvär</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 06 Oct 2025 18:03:02 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 18:03:02 +0200</lastBuildDate>
     <atom:link href="https://studiotvar.se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skapar en säkerthetslösning med QNAP NAS och några Reolink kameror!</title>
+      <link>https://studiotvar.se/blog/2025/11/15/2025-qnap-sakerhetslosning/</link>
+      <pubDate>Sat, 15 Nov 2025 18:03:02 +0200</pubDate>
+      <guid>https://studiotvar.se/blog/2025/11/15/2025-qnap-sakerhetslosning/</guid>
+      <description>&lt;p&gt;För att utrusta även min syster med familj med robust backup och säkerhetslösning med kameror till sin villa så har jag investerat i en QNAP NAS, några WD RED diskar och några REOLINK kameror.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./banners/2025-qnap-nas.png&#34; alt=&#34;qnap.com&#34; title=&#34;qnap.com&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Man börjar med att packa upp NASen och ansluta den till nätverket samt ta bort fronten.&#xA;&lt;img src=&#34;images/front-skydd.png&#34; alt=&#34;front&#34; title=&#34;front&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Demontera första vaggan (längst till vänster) för att kunna montera en disk.&#xA;&lt;img src=&#34;images/forsta-vaggan-demonterad.jpeg&#34; alt=&#34;forsta vaggan demonterad&#34; title=&#34;första vaggan demonterad&#34;&gt;&#xA;&lt;img src=&#34;images/diskvagga.jpeg&#34; alt=&#34;vagga&#34; title=&#34;vagga&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kostade på mig äkta western digital red diskar då jag har mycket god erfarenhet av deras hållbarhet. 8 TB kändes som den nu gällande storleken med avseende på pris också.&#xA;&lt;img src=&#34;images/wd-disk.jpeg&#34; alt=&#34;wd-disk&#34; title=&#34;wd-disk&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nostaligtripp med en atari emulator och skapar lite musik med quartet!</title>
       <link>https://studiotvar.se/blog/2025/10/06/2025-hatari-music/</link>
       <pubDate>Mon, 06 Oct 2025 18:03:02 +0200</pubDate>
       <guid>https://studiotvar.se/blog/2025/10/06/2025-hatari-music/</guid>
-      <description>&lt;p&gt;För att motionera trötthjärnan lite gav jag mig ut på en nostalgitripp och dundra in en Atari emulator på min nya fina mac. Hatari med STE emulering och hela 4 MB minne! Hahaha!&lt;/p&gt;&#xA;&lt;p&gt;Fick efter en del strul och även fuska med att ta till linux för referens igång min hatari på macos även om fönstren envisas med att strula. Man får lite random växla app eller ändra storleken på fönstret så vaknar det till igen. Hade ett jäkla strul med å fatta hur man ställde storleken på hårddiskar också innan jag insåg att man helt enkelt körde BARA oändlig storlek då det är faan omöjligt att med atari filer fylla dagens feta hårddiskar ens med nån procent.&lt;/p&gt;</description>
+      <description>&lt;p&gt;För att motionera trötthjärnan lite gav jag mig ut på en nostalgitripp och dundra in en Atari emulator på min nya fina mac. Hatari med STE emulering och hela 4 MB minne! Hahaha!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./banners/2025-hatari-music.png&#34; alt=&#34;hatari-emu.org&#34; title=&#34;hatari-emu.org&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fick efter en del strul och även fuska med att ta till linux för referens igång min hatari på macos även om fönstren envisas med att strula. Man får lite random växla app eller ändra storleken på fönstret så vaknar det till igen. Hade ett jäkla strul med å fatta hur man ställde storleken på hårddiskar också innan jag insåg att man helt enkelt körde BARA oändlig storlek då det är faan omöjligt att med atari filer fylla dagens feta hårddiskar ens med nån procent.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jag gråter inte</title>

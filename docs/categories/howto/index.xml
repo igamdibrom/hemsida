@@ -6,8 +6,15 @@
     <description>Recent content in Howto on Studio Tvär</description>
     <generator>Hugo</generator>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 28 May 2025 12:28:17 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 18:03:02 +0200</lastBuildDate>
     <atom:link href="https://studiotvar.se/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skapar en säkerthetslösning med QNAP NAS och några Reolink kameror!</title>
+      <link>https://studiotvar.se/blog/2025/11/15/2025-qnap-sakerhetslosning/</link>
+      <pubDate>Sat, 15 Nov 2025 18:03:02 +0200</pubDate>
+      <guid>https://studiotvar.se/blog/2025/11/15/2025-qnap-sakerhetslosning/</guid>
+      <description>&lt;p&gt;För att utrusta även min syster med familj med robust backup och säkerhetslösning med kameror till sin villa så har jag investerat i en QNAP NAS, några WD RED diskar och några REOLINK kameror.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../banners/2025-qnap-nas.png&#34; alt=&#34;qnap.com&#34; title=&#34;qnap.com&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Man börjar med att packa upp NASen och ansluta den till nätverket samt ta bort fronten.&#xA;&lt;img src=&#34;images/front-skydd.png&#34; alt=&#34;front&#34; title=&#34;front&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Demontera första vaggan (längst till vänster) för att kunna montera en disk.&#xA;&lt;img src=&#34;images/forsta-vaggan-demonterad.jpeg&#34; alt=&#34;forsta vaggan demonterad&#34; title=&#34;första vaggan demonterad&#34;&gt;&#xA;&lt;img src=&#34;images/diskvagga.jpeg&#34; alt=&#34;vagga&#34; title=&#34;vagga&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Kostade på mig äkta western digital red diskar då jag har mycket god erfarenhet av deras hållbarhet. 8 TB kändes som den nu gällande storleken med avseende på pris också.&#xA;&lt;img src=&#34;images/wd-disk.jpeg&#34; alt=&#34;wd-disk&#34; title=&#34;wd-disk&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>HOWTO: Casio MT-205 går inte på batteri, enkel lagning!</title>
       <link>https://studiotvar.se/blog/2025/05/28/2025-casio-mt-205-inte-batteri/</link>

@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://studiotvar.se/blog/</loc>
-    <lastmod>2025-11-15T18:03:02+02:00</lastmod>
-  </url><url>
     <loc>https://studiotvar.se/categories/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://studiotvar.se/categories/covers/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://studiotvar.se/covers/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://studiotvar.se/tags/egen-musik/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://studiotvar.se/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://studiotvar.se/tags/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://studiotvar.se/categories/tolkningar/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://studiotvar.se/blog/</loc>
     <lastmod>2025-11-15T18:03:02+02:00</lastmod>
   </url><url>
     <loc>https://studiotvar.se/categories/datorer-och-teknik/</loc>
@@ -23,12 +41,6 @@
     <loc>https://studiotvar.se/blog/2025/11/15/2025-qnap-sakerhetslosning/</loc>
     <lastmod>2025-11-15T18:03:02+02:00</lastmod>
   </url><url>
-    <loc>https://studiotvar.se/</loc>
-    <lastmod>2025-11-15T18:03:02+02:00</lastmod>
-  </url><url>
-    <loc>https://studiotvar.se/tags/</loc>
-    <lastmod>2025-11-15T18:03:02+02:00</lastmod>
-  </url><url>
     <loc>https://studiotvar.se/categories/emulation/</loc>
     <lastmod>2025-10-06T18:03:02+02:00</lastmod>
   </url><url>
@@ -44,9 +56,6 @@
     <loc>https://studiotvar.se/tags/quartet/</loc>
     <lastmod>2025-10-06T18:03:02+02:00</lastmod>
   </url><url>
-    <loc>https://studiotvar.se/tags/egen-musik/</loc>
-    <lastmod>2025-07-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://studiotvar.se/releases/jag-grater-inte/</loc>
     <lastmod>2025-07-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,6 +63,9 @@
     <lastmod>2025-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://studiotvar.se/releases/</loc>
+    <lastmod>2025-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://studiotvar.se/releases/saknar-dig/</loc>
     <lastmod>2025-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://studiotvar.se/tags/casio-mt-205/</loc>
